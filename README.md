@@ -29,3 +29,6 @@ http://localhost にアクセスして「Welcome to nginx!」を確認
 ## 詰まったところ
 - 日本語を表示したら文字化けした
 - meta charsetをUTF-8に設定して解決
+
+## SSH設定
+SSH接続の設定完了
